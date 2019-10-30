@@ -7,6 +7,5 @@ C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.csproj.CoreCompileInputs.cache
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.AssemblyInfoInputs.cache
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.AssemblyInfo.cs
-C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.dll
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.pdb
