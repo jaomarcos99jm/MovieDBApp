@@ -4,7 +4,7 @@ using MovieDBApp.Models;
 
 namespace MovieDBApp.Services
 {
-    public class MovieDBService : iMovieDBService
+    public class MovieDBService : IMovieDBService
     {
         private readonly IHttpRequest _request;
 

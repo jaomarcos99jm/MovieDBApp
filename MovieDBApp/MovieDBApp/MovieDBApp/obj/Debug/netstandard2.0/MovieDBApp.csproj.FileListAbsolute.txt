@@ -9,3 +9,4 @@ C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\bin\Debug\netstandard2.0\MovieDB
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.dll
 C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\MovieDBApp.pdb
+C:\DEV\Xamarim\MovieDBApp\MovieDBApp\MovieDBApp\obj\Debug\netstandard2.0\Views\MasterPage.xaml.g.cs

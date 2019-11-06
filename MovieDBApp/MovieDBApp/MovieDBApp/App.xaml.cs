@@ -24,7 +24,7 @@ namespace MovieDBApp
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("NavigationPage/MainPage");
+            await NavigationService.NavigateAsync("MasterPage/NavigationPage/MainPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -33,7 +33,8 @@ namespace MovieDBApp
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
 
             containerRegistry.RegisterSingleton<IHttpRequest, FlurlHttpRequest>();
-            containerRegistry.RegisterSingleton<iMovieDBService, MovieDBService>();
+            containerRegistry.RegisterSingleton<IMovieDBService, MovieDBService>();
+            containerRegistry.RegisterForNavigation<MasterPage, MasterPageViewModel>();
         }
     }
 }
